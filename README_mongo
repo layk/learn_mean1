@@ -1,0 +1,25 @@
+//create and use
+use dbname
+
+//add data
+
+
+//list all dbs
+show dbs
+
+//list collections
+show collections
+show tables
+db.getCollectionNames()
+
+//add data
+db.collection.save({column:"data",column:"data"})
+
+//query data
+db.collectio.find() 
+
+
+
+
+
+See: http://theholmesoffice.com/how-to-create-a-mongodb-database/
