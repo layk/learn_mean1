@@ -23,6 +23,13 @@ git pull origin branchname
 git commit -a -m 'added a new footer [issue 53]'
 
 
+//move/rename
+git mv originalfilename newfilename
+
+//delete 
+git rm filename
+
+
 //conflicting 
 git stashi
 https://git-scm.com/book/en/v1/Git-Tools-Stashing

@@ -1,3 +1,6 @@
+//install native drivers
+npm install mongodb --mongodb:native  
+
 //create and use
 use dbname
 
