@@ -1,0 +1,59 @@
+//list local branches
+git branch
+
+//list all
+git branch -a
+
+//list remote branches
+git branch -r
+
+// delete local branch 
+git branch -d name
+
+//get branch 
+git checkout -b name
+
+//change branch
+git checkout name
+
+//Get from remote
+git pull origin branchname
+
+//commit
+git commit -a -m 'added a new footer [issue 53]'
+
+
+//conflicting 
+git stashi
+https://git-scm.com/book/en/v1/Git-Tools-Stashing
+
+
+
+git add -A stages All
+git add . stages new and modified, without deleted
+git add -u stages modified and deleted, without new
+
+
+
+
+
+git status
+git stash list
+git stash apply
+https://git-scm.com/book/en/v1/Git-Tools-Stashing
+git stash show -p
+git stash show -p stash@{1}
+http://stackoverflow.com/questions/10725729/git-see-whats-in-a-stash-without-applying-stash
+
+
+
+https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging
+
+//file history
+git log --follow -p -- file
+
+//conflicts
+git mergetool
+
+
+
