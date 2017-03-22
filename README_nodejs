@@ -1,0 +1,25 @@
+General
+See: https://www.airpair.com/node.js/posts/top-10-mistakes-node-developers-make
+
+
+//auto reload when code changes
+npm install nodemon
+Alternatives:
+nodemon
+node-supervisor
+forever
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
