@@ -1,3 +1,3 @@
-Mean stack experiments. Original code from http://theholmesoffice.com/
+MEAN stack experiments. Original code from http://theholmesoffice.com/
 
 
