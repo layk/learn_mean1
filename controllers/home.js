@@ -1,5 +1,6 @@
 var template = require('../views/template-main');  
 var test_data = require('../model/test-data');  
+exports.
 exports.get = function(req, res) {  
   var teamlist = test_data.teamlist;
   var strTeam = "",
