@@ -15,7 +15,7 @@ exports.get = function(req, res) {
         });
     } else {
         if (path === '/' || path === '/home') {
-            require('./controllers/home-mongo').get(req, res);
+            require('./controllers/home-mongoose').get(req, res);
         } else {
             require('./controllers/404').get(req, res);
         }
