@@ -10,6 +10,9 @@ use dbname
 //list all dbs
 show dbs
 
+//used db
+use collectionnname
+
 //list collections
 show collections
 show tables
@@ -19,7 +22,7 @@ db.getCollectionNames()
 db.collection.save({column:"data",column:"data"})
 
 //query data
-db.collectio.find() 
+db.collectionname.find() 
 
 
 
