@@ -30,3 +30,8 @@ db.collectionname.find()
 
 See: http://theholmesoffice.com/how-to-create-a-mongodb-database/
 See: https://www.learntutors.com/install-mongodb-fedora-24/
+
+
+//See: http://mongoosejs.com/docs/promises.html
+//See: http://stackoverflow.com/questions/35929768/which-is-the-right-way-to-use-bluebird-with-mongoose
+//See: http://stackoverflow.com/questions/40551550/what-is-the-correct-way-of-using-bluebird-for-mongoose-promises

@@ -15,7 +15,8 @@ See: http://stackoverflow.com/questions/7137397/module-exports-vs-exports-in-nod
 See: http://stackoverflow.com/questions/5311334/what-is-the-purpose-of-node-js-module-exports-and-how-do-you-use-it
 
 
-
+//mongoose deprecated promise warning
+See: http://mongoosejs.com/docs/promises.html
 
 
 
